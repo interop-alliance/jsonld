@@ -1,6 +1,6 @@
 # @interop/jsonld ChangeLog
 
-## 9.0.1 -
+## 9.0.1 - 2026-05-24
 
 ### Changed
 - Forked from Digital Bazaar's `jsonld@9.0.0`, http-client dep switched to
