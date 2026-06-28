@@ -1,6 +1,6 @@
 {
   "name": "@interop/jsonld",
-  "version": "9.0.2",
+  "version": "9.0.3",
   "description": "A JSON-LD Processor and API implementation in JavaScript.",
   "homepage": "https://github.com/digitalbazaar/jsonld.js",
   "author": {
@@ -29,7 +29,7 @@
     "lib/**/*.js"
   ],
   "dependencies": {
-    "@interop/http-client": "^1.0.3",
+    "@interop/http-client": "^1.0.4",
     "canonicalize": "^2.1.0",
     "lru-cache": "^6.0.0",
     "rdf-canonize": "^5.0.0"

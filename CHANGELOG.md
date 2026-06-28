@@ -1,6 +1,12 @@
 # @interop/jsonld ChangeLog
 
-## 9.0.1 - 2026-05-24
+## 9.0.3 - 2026-06-28
+
+### Fixed
+
+- Update to `@interop/http-client@1.0.4` (fixes json content type detection).
+
+## 9.0.1-9.0.2 - 2026-05-24
 
 ### Changed
 - Forked from Digital Bazaar's `jsonld@9.0.0`, http-client dep switched to
